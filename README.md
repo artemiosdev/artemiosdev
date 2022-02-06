@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello everyone👋🥳 
+#### Glad to see you here! 🤩   
 
-<!--
-**artemiosdev/artemiosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Artem and I'm a junior iOS developer🍏. I'm from Russia, living in Krasnodar (The Black Sea).   
 
-Here are some ideas to get you started:
+In my Instagram, I write about my journey as an early-career professional.  Follow me and join my dev coding journey ♥️✌️ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:flyboroda@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://twitter.com/artobor"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.instagram.com/artem_iosdev/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://vk.com/artobor"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
+</p>
+
+I'm currently working on 🔭 building Mobile Apps on iOS using Swift (UIKit + SwiftUI)   
+
+I like programming, design, photography. I love to explore and learn about new things  
