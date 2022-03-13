@@ -7,12 +7,12 @@ In my Instagram, I write about my journey as an early-career professional.  Foll
 
 <p align="left">
   <a href="mailto:flyboroda@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://twitter.com/artobor"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.instagram.com/artem_iosdev/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+ <! --  <a href="https://twitter.com/artobor"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a> -->
+ <! --  <a href="https://www.instagram.com/artem_iosdev/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a> -->
   <a href="https://vk.com/artobor"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
 </p>
 
-[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=artobor&layout=wide)](https://twitter.com/artobor)
+<! -- [![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=artobor&layout=wide)](https://twitter.com/artobor) -->
 
 
 I'm currently working on 🔭 building Mobile Apps on iOS using Swift (UIKit + SwiftUI)   
