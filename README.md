@@ -6,11 +6,11 @@ My name is Artem and I'm a junior iOS developer🍏. I'm from Russia, living in 
 In my Instagram, I write about my journey as an early-career professional.  Follow me and join my dev coding journey ♥️✌️ 
 
 <p align="left">
-  <a href="mailto:flyboroda@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email"/ height="100"/width="100"/></a>
+  <a href="mailto:flyboroda@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail--v1.png"/ alt="Email"/></a>
  <!--  <a href="https://twitter.com/artobor"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a> -->
  <!--  <a href="https://www.instagram.com/artem_iosdev/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a> -->
-  <a href="https://vk.com/artobor"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="VK"/ height="100"/width="100"/></a>
-  <a href="https://t.me/artobor"><img src="https://img.icons8.com/color/96/000000/telegram-app--v5.png"/ alt="Telegram"/><</a>
+  <a href="https://vk.com/artobor"><img src="https://img.icons8.com/fluency/96/000000/vk-circled.png"/ alt="VK"/></a>
+  <a href="https://t.me/artobor"><img src="https://img.icons8.com/color/96/000000/telegram-app--v5.png"/ alt="Telegram"/></a>
 </p>
 
 <!-- [![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=artobor&layout=wide)](https://twitter.com/artobor) -->
