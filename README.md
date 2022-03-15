@@ -3,7 +3,7 @@
 
 My name is Artem and I'm a junior iOS developer🍏. I'm from Russia, living in Krasnodar (The Black Sea).   
 
-In my Instagram, I write about my journey as an early-career professional.  Follow me and join my dev coding journey ♥️✌️ 
+<!-- In my Instagram, I write about my journey as an early-career professional.  Follow me and join my dev coding journey ♥️✌️ -->
 
 <p align="left">
   <a href="mailto:flyboroda@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail--v1.png"/ alt="Email"/></a>
