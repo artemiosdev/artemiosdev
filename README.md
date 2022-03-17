@@ -29,7 +29,6 @@ I like programming, design, photography. I love to explore and learn about new t
 ![](https://komarev.com/ghpvc/?username=artemiosdev&style=flat-square&label=Views)
 ![](https://badges.pufler.dev/visits/artemiosdev/artemiosdev?color=black&logo=github&style=flat-square)
 
-<div>
 <!DOCTYPE html>
 <html lang="ru" >
 <head>
@@ -233,7 +232,5 @@ I like programming, design, photography. I love to explore and learn about new t
 		}
 
 	</script>
-
 </body>
 </html>
-</div>
