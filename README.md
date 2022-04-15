@@ -1,7 +1,7 @@
 ### Hello everyone👋🥳 
 #### Glad to see you here! 🤩   
 
-My name is Artem and I'm a junior iOS developer🍏. I'm from Russia, living in Krasnodar (The Black Sea).   
+My name is Artem and I'm a junior iOS developer🍏.
 
 <!-- In my Instagram, I write about my journey as an early-career professional.  Follow me and join my dev coding journey ♥️✌️ -->
 
