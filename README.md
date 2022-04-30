@@ -24,6 +24,14 @@ I like programming, design, photography. I love to explore and learn about new t
   <img src="https://github-readme-stats.vercel.app/api?username=artemiosdev&show_icons=true&theme=radical" alt="Artem Androsenko artemiosdev Github Stats"></img>
 </p>
 
+<details><summary>My skills</summary>
+
+   1. 
+   2.
+   3.
+
+</details>
+
 ![](https://komarev.com/ghpvc/?username=artemiosdev&style=flat-square&label=Views)
 ![](https://badges.pufler.dev/visits/artemiosdev/artemiosdev?color=black&logo=github&style=flat-square)
 
