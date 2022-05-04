@@ -26,7 +26,7 @@ I like programming, design, photography. I love to explore and learn about new t
 
 <details><summary>My skills</summary>
 
-   1. 
+   1. [Harvard CS50](https://javarush.ru/quests/QUEST_HARVARD_CS50)
    2.
    3.
 
