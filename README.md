@@ -25,7 +25,7 @@ I like programming, design, photography. I love to explore and learn about new t
 </p>
 
 <details><summary>My skills</summary>
-  Basic computer science skills
+  ## Basic computer science skills
   
   1. [Harvard CS50](https://javarush.ru/quests/QUEST_HARVARD_CS50)
   
