@@ -25,10 +25,13 @@ I like programming, design, photography. I love to explore and learn about new t
 </p>
 
 <details><summary>My skills</summary>
-  - ***Basic computer science skills***
-      1. [Harvard CS50](https://javarush.ru/quests/QUEST_HARVARD_CS50)
-      2. [The C programming Language.Second Edition, Brian W. Kernighan, Dennis M. Ritchie](http://cpp.com.ru/kr_cbook/)
-      3. [Курс по Основам языка Си](http://cs.mipt.ru/c_intro/) от старшего преподавателя кафедры информатики и вычислительной математики МФТИ [Тимофея Хирьянова](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw)
+  Basic computer science skills
+  
+  1. [Harvard CS50](https://javarush.ru/quests/QUEST_HARVARD_CS50)
+  
+  2. [The C programming Language.Second Edition, Brian W. Kernighan, Dennis M. Ritchie](http://cpp.com.ru/kr_cbook/)
+  
+  3. [Курс по Основам языка Си](http://cs.mipt.ru/c_intro/) от старшего преподавателя кафедры информатики и вычислительной математики МФТИ [Тимофея Хирьянова](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw)
 
 </details>
 
