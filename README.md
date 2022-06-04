@@ -33,9 +33,11 @@ I like programming, design, photography. I love to explore and learn about new t
   
   3. [Курс по Основам языка Си](http://cs.mipt.ru/c_intro/) от старшего преподавателя кафедры информатики и вычислительной математики МФТИ [Тимофея Хирьянова](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw)
   
-  4. [Введение в математическую логику](https://ru.hexlet.io/courses/logic/summary), [Youtube course](https://www.youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ)
+  4. [Алгоритмы и структуры данных на Python 3, от старшего преподавателя кафедры информатики и вычислительной математики МФТИ Тимофея Хирьянова](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
   
-  5. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming), [Youtube cours](https://www.youtube.com/playlist?list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33)
+  5. [Введение в математическую логику](https://ru.hexlet.io/courses/logic/summary), [Youtube course](https://www.youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ)
+  
+  6. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming), [Youtube cours](https://www.youtube.com/playlist?list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33)
 </details>
 
 ![](https://komarev.com/ghpvc/?username=artemiosdev&style=flat-square&label=Views)
