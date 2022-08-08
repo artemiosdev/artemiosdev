@@ -38,6 +38,8 @@ I like programming, design, photography. I love to explore and learn about new t
   5. [Введение в математическую логику](https://ru.hexlet.io/courses/logic/), от Hexlet, [youtube version](https://www.youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ)
   
   6. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming), от Hexlet, [youtube version](https://www.youtube.com/playlist?list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33)
+  
+  7. [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) от Dr. Angela Yu
 </details>
 
 ![](https://komarev.com/ghpvc/?username=artemiosdev&style=flat-square&label=Views)
