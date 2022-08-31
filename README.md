@@ -7,7 +7,10 @@ I'm currently working on 🔭 building Mobile Apps on iOS using Swift (UIKit + S
 
 I like programming, design, photography. I love to explore and learn about new things  
 
-### Computer science skills <details><summary></summary>
+---
+
+### Computer science skills 
+<details><summary>click here</summary>
   1. [Harvard CS50, Введение в программирование](https://javarush.ru/quests/QUEST_HARVARD_CS50)
   
   2. [The C programming Language. Second Edition, Brian W. Kernighan, Dennis M. Ritchie](http://cpp.com.ru/kr_cbook/)
@@ -25,7 +28,10 @@ I like programming, design, photography. I love to explore and learn about new t
   8. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming), от Hexlet, [youtube version](https://www.youtube.com/playlist?list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33)
 </details>
 
-###  iOS/Swift skills <details><summary></summary>
+---
+
+###  iOS/Swift skills 
+<details><summary>click here</summary>
   1. [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) от Dr. Angela Yu
   
   2. [Swift-Resources-Apple Developer. Apple books](https://developer.apple.com/learn/curriculum/)
@@ -35,6 +41,8 @@ I like programming, design, photography. I love to explore and learn about new t
   4. [Усов.В Swift. Основы разработки приложений под iOS, iPadOS и macOS (6-е издание)](https://swiftme.ru/product-category/books/)
 
 </details>
+
+---
 
 💬 Ask me about anything [here](https://github.com/artemiosdev/artemiosdev/issues)
 
