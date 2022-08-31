@@ -10,7 +10,9 @@ I like programming, design, photography. I love to explore and learn about new t
 ---
 
 ### Computer science skills 
+
 <details><summary>click here</summary>
+  
   1. [Harvard CS50, Введение в программирование](https://javarush.ru/quests/QUEST_HARVARD_CS50)
   
   2. [The C programming Language. Second Edition, Brian W. Kernighan, Dennis M. Ritchie](http://cpp.com.ru/kr_cbook/)
@@ -31,7 +33,9 @@ I like programming, design, photography. I love to explore and learn about new t
 ---
 
 ###  iOS/Swift skills 
+
 <details><summary>click here</summary>
+  
   1. [iOS & Swift - The Complete iOS App Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
   
   2. [Swift-Resources-Apple Developer. Apple books](https://developer.apple.com/learn/curriculum/)
