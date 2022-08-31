@@ -19,9 +19,9 @@ I like programming, design, photography. I love to explore and learn about new t
   
   4. [Алгоритмы и структуры данных на Python 3](http://judge.mipt.ru/mipt_cs_on_python3/), [youtube version](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0), от старшего преподавателя кафедры информатики и вычислительной математики МФТИ [Тимофея Хирьянова](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw)
   
-  5.[Pro Git book. Scott Chacon, Ben Straub](https://git-scm.com/book/ru/v2)
+  5. [Pro Git book. Scott Chacon, Ben Straub](https://git-scm.com/book/ru/v2)
   
-  6.[Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+  6. [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
   
   7. [Введение в математическую логику](https://ru.hexlet.io/courses/logic/), от Hexlet, [youtube version](https://www.youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ)
   
@@ -32,7 +32,7 @@ I like programming, design, photography. I love to explore and learn about new t
 
 ###  iOS/Swift skills 
 <details><summary>click here</summary>
-  1. [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) от Dr. Angela Yu
+  1. [iOS & Swift - The Complete iOS App Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
   
   2. [Swift-Resources-Apple Developer. Apple books](https://developer.apple.com/learn/curriculum/)
   
