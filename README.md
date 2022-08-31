@@ -9,7 +9,7 @@ I like programming, design, photography. I love to explore and learn about new t
 
 ---
 
-### Computer science skills 
+### My Computer science skills 
 
 <details><summary>click here</summary>
   
@@ -23,7 +23,7 @@ I like programming, design, photography. I love to explore and learn about new t
   
   5. [Pro Git book. Scott Chacon, Ben Straub](https://git-scm.com/book/ru/v2)
   
-  6. [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+  6. [Command Line guide](https://www.learnenough.com/command-line-tutorial)
   
   7. [Введение в математическую логику](https://ru.hexlet.io/courses/logic/), от Hexlet, [youtube version](https://www.youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ)
   
@@ -32,7 +32,7 @@ I like programming, design, photography. I love to explore and learn about new t
 
 ---
 
-###  iOS/Swift skills 
+### My iOS/Swift skills 
 
 <details><summary>click here</summary>
   
