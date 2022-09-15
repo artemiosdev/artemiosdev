@@ -28,6 +28,8 @@ I like programming, design, photography. I love to explore and learn about new t
   7. [Введение в математическую логику](https://ru.hexlet.io/courses/logic/), от Hexlet, [youtube version](https://www.youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ)
   
   8. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming), от Hexlet, [youtube version](https://www.youtube.com/playlist?list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33)
+  
+  9. [Код. Тайный язык информатики. Чарльз Петцольд](https://charlespetzold.com/books/). [Interactive Illustrations from this book](https://www.codehiddenlanguage.com/) 
 </details>
 
 ---
