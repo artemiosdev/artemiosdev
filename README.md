@@ -1,6 +1,8 @@
 ### Hello everyone👋🥳 
 #### Glad to see you here! 🤩   
 
+I'm looking for a job
+
 My name is Artem and I'm a junior iOS developer🍏.
 
 I'm currently working on 🔭 building Mobile Apps on iOS using Swift (UIKit + SwiftUI)   
@@ -36,7 +38,7 @@ I like programming, design, photography. I love to explore and learn about new t
 
 ### My iOS/Swift skills 
 
-<details><summary>click here</summary>
+<!-- <details><summary>click here</summary> --> 
   
   1. [iOS & Swift - The Complete iOS App Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
   
@@ -46,7 +48,8 @@ I like programming, design, photography. I love to explore and learn about new t
   
   4. [Усов.В Swift. Основы разработки приложений под iOS, iPadOS и macOS (6-е издание)](https://swiftme.ru/product-category/books/)
 
-</details>
+<!-- </details> -->
+
 
 ---
 
