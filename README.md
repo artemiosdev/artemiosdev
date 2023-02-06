@@ -1,7 +1,7 @@
-### Hello everyone👋🥳 
-#### Glad to see you here! 🤩   
+## I'm looking for a job ‼️ 🔎
 
-I'm looking for a job
+#### Hello everyone👋🥳 
+#### Glad to see you here! 🤩   
 
 My name is Artem and I'm a junior iOS developer🍏.
 
@@ -13,7 +13,7 @@ I like programming, design, photography. I love to explore and learn about new t
 
 ### My Computer science skills 
 
-<details><summary>click here</summary>
+<!-- <details><summary>click here</summary> -->
   
   1. [Harvard CS50, Введение в программирование](https://javarush.ru/quests/QUEST_HARVARD_CS50)
   
@@ -32,7 +32,8 @@ I like programming, design, photography. I love to explore and learn about new t
   8. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming), от Hexlet, [youtube version](https://www.youtube.com/playlist?list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33)
   
   9. [Код. Тайный язык информатики. Чарльз Петцольд](https://charlespetzold.com/books/). [Interactive Illustrations from this book](https://www.codehiddenlanguage.com/) 
-</details>
+
+  <!-- </details> -->
 
 ---
 
@@ -57,13 +58,9 @@ I like programming, design, photography. I love to explore and learn about new t
 
 <p align="left">
   <a href="mailto:flyboroda@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail--v1.png"/ alt="Email"/></a>
- <!--  <a href="https://twitter.com/"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a> -->
- <!--  <a href="https://www.instagram.com/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a> -->
   <a href="https://vk.com/artobor"><img src="https://img.icons8.com/fluency/96/000000/vk-circled.png"/ alt="VK"/></a>
   <a href="https://t.me/artobor"><img src="https://img.icons8.com/color/96/000000/telegram-app--v5.png"/ alt="Telegram"/></a>
 </p>
-
-<!-- [![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=artobor&layout=wide)](https://twitter.com/) -->
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=artemiosdev&show_icons=true&theme=radical" alt="Artem Androsenko artemiosdev Github Stats"></img>
