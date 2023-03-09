@@ -11,6 +11,24 @@ I like programming, design, photography. I love to explore and learn about new t
 
 ---
 
+### My iOS/Swift skills 
+
+<!-- <details><summary>click here</summary> --> 
+  
+  1. [iOS & Swift - The Complete iOS App Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+  
+  2. [Swiftbook courses](https://swiftbook.ru/courses/)
+  
+  3. [Swift-Resources-Apple Developer. Apple books](https://developer.apple.com/learn/curriculum/)
+  
+  4. [Swift Apprentice by Raywenderlich.com](https://www.raywenderlich.com/books/swift-apprentice)
+  
+  5. [Усов.В Swift. Основы разработки приложений под iOS, iPadOS и macOS (6-е издание)](https://swiftme.ru/product-category/books/) и [Swift. Разработка приложений под iOS на основе фреймворка UIKit](https://swiftme.ru/product/kniga-swift-razrabotki-prilozhenij-v-xcode-pod-ios-i-ipados-kniga-2-iz-2/)
+
+<!-- </details> -->
+
+---
+
 ### My Computer science skills 
 
 <!-- <details><summary>click here</summary> -->
@@ -34,23 +52,6 @@ I like programming, design, photography. I love to explore and learn about new t
   9. [Код. Тайный язык информатики. Чарльз Петцольд](https://charlespetzold.com/books/). [Interactive Illustrations from this book](https://www.codehiddenlanguage.com/) 
 
   <!-- </details> -->
-
----
-
-### My iOS/Swift skills 
-
-<!-- <details><summary>click here</summary> --> 
-  
-  1. [iOS & Swift - The Complete iOS App Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
-  
-  2. [Swift-Resources-Apple Developer. Apple books](https://developer.apple.com/learn/curriculum/)
-  
-  3. [Swift Apprentice by Raywenderlich.com](https://www.raywenderlich.com/books/swift-apprentice)
-  
-  4. [Усов.В Swift. Основы разработки приложений под iOS, iPadOS и macOS (6-е издание)](https://swiftme.ru/product-category/books/)
-
-<!-- </details> -->
-
 
 ---
 
