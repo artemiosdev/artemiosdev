@@ -41,15 +41,18 @@ I like programming, design, photography. I love to explore and learn about new t
   
   4. [Алгоритмы и структуры данных на Python 3](http://judge.mipt.ru/mipt_cs_on_python3/), [youtube version](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0), от старшего преподавателя кафедры информатики и вычислительной математики МФТИ [Тимофея Хирьянова](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw)
   
-  5. [Pro Git book. Scott Chacon, Ben Straub](https://git-scm.com/book/ru/v2)
+  5. https://www.codewars.com/users/artemiosdev/badges/small 
+  [Codewars](www.codewars.com)
   
-  6. [Command Line guide](https://www.learnenough.com/command-line-tutorial)
+  6. [Pro Git book. Scott Chacon, Ben Straub](https://git-scm.com/book/ru/v2)
   
-  7. [Введение в математическую логику](https://ru.hexlet.io/courses/logic/), от Hexlet, [youtube version](https://www.youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ)
+  7. [Command Line guide](https://www.learnenough.com/command-line-tutorial)
   
-  8. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming), от Hexlet, [youtube version](https://www.youtube.com/playlist?list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33)
+  8. [Введение в математическую логику](https://ru.hexlet.io/courses/logic/), от Hexlet, [youtube version](https://www.youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ)
   
-  9. [Код. Тайный язык информатики. Чарльз Петцольд](https://charlespetzold.com/books/). [Interactive Illustrations from this book](https://www.codehiddenlanguage.com/) 
+  9. [Введение в программирование](https://ru.hexlet.io/courses/introduction_to_programming), от Hexlet, [youtube version](https://www.youtube.com/playlist?list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33)
+  
+  10. [Код. Тайный язык информатики. Чарльз Петцольд](https://charlespetzold.com/books/). [Interactive Illustrations from this book](https://www.codehiddenlanguage.com/) 
 
   <!-- </details> -->
 
