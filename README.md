@@ -41,8 +41,7 @@ I like programming, design, photography. I love to explore and learn about new t
   
   4. [Алгоритмы и структуры данных на Python 3](http://judge.mipt.ru/mipt_cs_on_python3/), [youtube version](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0), от старшего преподавателя кафедры информатики и вычислительной математики МФТИ [Тимофея Хирьянова](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw)
   
-  5. https://www.codewars.com/users/artemiosdev/badges/small 
-  [Codewars](www.codewars.com)
+  5. [My Codewars profile](https://codewars.com/users/artemiosdev)
   
   6. [Pro Git book. Scott Chacon, Ben Straub](https://git-scm.com/book/ru/v2)
   
@@ -65,6 +64,10 @@ I like programming, design, photography. I love to explore and learn about new t
   <a href="https://vk.com/artobor"><img src="https://img.icons8.com/fluency/96/000000/vk-circled.png"/ alt="VK"/></a>
   <a href="https://t.me/artobor"><img src="https://img.icons8.com/color/96/000000/telegram-app--v5.png"/ alt="Telegram"/></a>
 </p>
+
+<div>
+<a href="https://codewars.com/users/artemiosdev"><img src="https://www.codewars.com/users/artemiosdev/badges/large" align="left"></img></a>
+</div>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=artemiosdev&show_icons=true&theme=radical" alt="Artem Androsenko artemiosdev Github Stats"></img>
