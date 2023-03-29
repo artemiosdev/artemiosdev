@@ -68,8 +68,8 @@ I like programming, design, photography. I love to explore and learn about new t
 <div>
 <a href="https://codewars.com/users/artemiosdev"><img src="https://www.codewars.com/users/artemiosdev/badges/large" align="left"></img></a>
 </div>
-
 <br>
+<hr>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=artemiosdev&show_icons=true&theme=radical" alt="Artem Androsenko artemiosdev Github Stats"></img>
