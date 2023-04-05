@@ -11,7 +11,13 @@ I like programming, design, photography. I love to explore and learn about new t
 
 ---
 
-### My iOS/Swift skills 
+**My iOS/Swift skills:** UIKit, SwiftUI, OOP, POP, MVC, MVVM, Git, ARC, Grand Central Dispatch, API, JSON, URLSession, Realm, CoreData, Autolayout, Storyboard, CocoaPods, SPM
+
+**My Computer science skills:**  Git, BASH(-ZSH), Design Patterns, beginner level C, beginner level Python.
+
+---
+
+### iOS/Swift resources, completed ✅
 
 <!-- <details><summary>click here</summary> --> 
   
@@ -21,7 +27,7 @@ I like programming, design, photography. I love to explore and learn about new t
   
   3. [Swift-Resources-Apple Developer. Apple books](https://developer.apple.com/learn/curriculum/)
   
-  4. [Swift Apprentice by Raywenderlich.com](https://www.raywenderlich.com/books/swift-apprentice)
+  4. [Swift Apprentice by Raywenderlich/Kodeco](https://www.kodeco.com/books/swift-apprentice)
   
   5. [Усов.В Swift. Основы разработки приложений под iOS, iPadOS и macOS (6-е издание)](https://swiftme.ru/product-category/books/) и [Swift. Разработка приложений под iOS на основе фреймворка UIKit](https://swiftme.ru/product/kniga-swift-razrabotki-prilozhenij-v-xcode-pod-ios-i-ipados-kniga-2-iz-2/)
 
@@ -29,7 +35,7 @@ I like programming, design, photography. I love to explore and learn about new t
 
 ---
 
-### My Computer science skills 
+### Computer science resources, completed ✅
 
 <!-- <details><summary>click here</summary> -->
   
