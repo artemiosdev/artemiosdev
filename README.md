@@ -54,9 +54,11 @@ Git, BASH(-ZSH), Design Patterns, beginner level C, beginner level Python.
   5. [My Codewars profile](https://codewars.com/users/artemiosdev)
 
 <div>
-<a href="https://codewars.com/users/artemiosdev"><img src="https://www.codewars.com/users/artemiosdev/badges/large" align="left"></img></a>
+<a href="https://codewars.com/users/artemiosdev"><img src="https://www.codewars.com/users/artemiosdev/badges/small" align="left"></img></a>
 <br>
 </div>
+<br>
+<br>
   
   6. [Pro Git book. Scott Chacon, Ben Straub](https://git-scm.com/book/ru/v2)
   
@@ -80,11 +82,7 @@ Git, BASH(-ZSH), Design Patterns, beginner level C, beginner level Python.
   <a href="https://t.me/artobor"><img src="https://img.icons8.com/color/96/000000/telegram-app--v5.png"/ alt="Telegram"/></a>
 </p>
 
-<div>
-<a href="https://codewars.com/users/artemiosdev"><img src="https://www.codewars.com/users/artemiosdev/badges/large" align="left"></img></a>
-<br>
-</div>
-<br>
+
 <br>
 
 <p align="left">
