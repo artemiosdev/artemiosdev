@@ -55,6 +55,7 @@ Git, BASH(-ZSH), Design Patterns, beginner level C, beginner level Python.
 
 <div>
 <a href="https://codewars.com/users/artemiosdev"><img src="https://www.codewars.com/users/artemiosdev/badges/large" align="left"></img></a>
+<br>
 </div>
 <br>
   
