@@ -52,6 +52,12 @@ Git, BASH(-ZSH), Design Patterns, beginner level C, beginner level Python.
   4. [Алгоритмы и структуры данных на Python 3](http://judge.mipt.ru/mipt_cs_on_python3/), [youtube version](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0), от старшего преподавателя кафедры информатики и вычислительной математики МФТИ [Тимофея Хирьянова](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw)
   
   5. [My Codewars profile](https://codewars.com/users/artemiosdev)
+
+      https://www.codewars.com/users/artemiosdev/badges/small
+      
+      
+      
+      https://www.codewars.com/users/artemiosdev/badges/large
   
   6. [Pro Git book. Scott Chacon, Ben Straub](https://git-scm.com/book/ru/v2)
   
