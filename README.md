@@ -53,11 +53,10 @@ Git, BASH(-ZSH), Design Patterns, beginner level C, beginner level Python.
   
   5. [My Codewars profile](https://codewars.com/users/artemiosdev)
 
-      https://www.codewars.com/users/artemiosdev/badges/small
-      
-      
-      
-      https://www.codewars.com/users/artemiosdev/badges/large
+<div>
+<a href="https://codewars.com/users/artemiosdev"><img src="https://www.codewars.com/users/artemiosdev/badges/large" align="left"></img></a>
+<br>
+</div>
   
   6. [Pro Git book. Scott Chacon, Ben Straub](https://git-scm.com/book/ru/v2)
   
