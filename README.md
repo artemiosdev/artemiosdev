@@ -13,7 +13,7 @@ I like programming, design, photography. I love to explore and learn about new t
 
 ### My iOS/Swift skills:
 
-UIKit, SwiftUI, OOP, POP, MVC, MVVM, Git, ARC, Grand Central Dispatch, API, JSON, URLSession, Realm, CoreData, Autolayout, Storyboard, CocoaPods, SPM
+UIKit, SwiftUI, OOP, POP, MVC, MVVM, Git, ARC, Grand Central Dispatch, API, JSON, URLSession, Realm, CoreData, Auto Layout, Storyboard, XIB, CocoaPods, SPM
 
 ### My Computer science skills:
 
