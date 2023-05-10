@@ -83,7 +83,7 @@ Git, BASH(-ZSH), Design Patterns, beginner level C, beginner level Python.
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=artemiosdev&env=PATH_1&show_icons=true&theme=radical" alt="Artem Androsenko artemiosdev Github Stats"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=artemiosdev&show_icons=true&theme=onedark" alt="Artem Androsenko artemiosdev Github Stats"></img>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=artemiosdev&style=flat-square&label=Views)
