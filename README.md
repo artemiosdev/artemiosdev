@@ -3,11 +3,10 @@
 #### Hello everyone👋🥳 
 #### Glad to see you here! 🤩   
 
-My name is Artem and I'm a junior iOS developer🍏.
+My name is Artem and I'm a junior iOS developer🍏. Work as an AI-trainer for YandexGPT.  
 
-I'm currently working on 🔭 building Mobile Apps on iOS using Swift (UIKit + SwiftUI)   
-
-I like programming, design, photography. I love to explore and learn about new things  
+<!-- I'm currently working on 🔭 building Mobile Apps on iOS using Swift (UIKit + SwiftUI)--> 
+I like programming, design, photography. I love to explore and learn about new things.  
 
 ---
 
