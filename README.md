@@ -1,5 +1,3 @@
-## I'm looking for a job ‼️ 🔎
-
 #### Hello everyone👋🥳 
 #### Glad to see you here! 🤩   
 
